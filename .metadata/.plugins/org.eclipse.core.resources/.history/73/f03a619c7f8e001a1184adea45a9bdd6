@@ -1,0 +1,10 @@
+package Ex03_12;
+
+public class DividedByZero {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

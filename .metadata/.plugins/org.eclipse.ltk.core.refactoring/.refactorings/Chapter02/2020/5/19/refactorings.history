@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Ex02_07.Ex02_07&apos; to &apos;AssignmentInDecOperator&apos;&#x0D;&#x0A;- Original project: &apos;Chapter02&apos;&#x0D;&#x0A;- Original element: &apos;Ex02_07.Ex02_07&apos;&#x0D;&#x0A;- Renamed element: &apos;Ex02_07.AssignmentInDecOperator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex02_07&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Ex02_07{Ex02_07.java[Ex02_07" matchStrategy="1" name="AssignmentInDecOperator" qualified="false" references="true" similarDeclarations="false" stamp="1588493195359" textual="false" version="1.0"/>
+</session>

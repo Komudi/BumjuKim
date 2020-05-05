@@ -1,0 +1,12 @@
+
+public class Var {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		var price = 200;
+		var name = "kitae";
+		var pi= 3.14;
+
+	}
+
+}

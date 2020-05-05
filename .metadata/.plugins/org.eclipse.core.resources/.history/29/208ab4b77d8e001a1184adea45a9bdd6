@@ -1,0 +1,10 @@
+package Ex03_09;
+
+public class foreachEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
